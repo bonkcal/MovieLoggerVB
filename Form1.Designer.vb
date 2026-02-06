@@ -186,7 +186,7 @@ Partial Class Form1
         Me.colTitle.Name = "colTitle"
         Me.colTitle.ReadOnly = True
         Me.colTitle.Resizable = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.colTitle.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable
+        Me.colTitle.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Programmatic
         '
         'colRating
         '
@@ -194,7 +194,7 @@ Partial Class Form1
         Me.colRating.Name = "colRating"
         Me.colRating.ReadOnly = True
         Me.colRating.Resizable = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.colRating.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable
+        Me.colRating.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Programmatic
         '
         'colStatus
         '
